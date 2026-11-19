@@ -141,8 +141,8 @@ fitapp-with-backend/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Advance-project/fitapp-with-backend-.git
-cd fitapp-with-backend
+git clone https://github.com/jasdeepkaursra1809/gym-app.git
+cd gym-app
 ```
 
 ### 2. Backend Setup
